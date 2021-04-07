@@ -1,4 +1,5 @@
 // Creating a HOC for Global State
+// Running a process and keep updateing state and action can have affect to work like redx
 
 // process !!
 //  1)   Get Global State 1st arg dispatch 2nd arg then store it inside Index.js file as root of project
